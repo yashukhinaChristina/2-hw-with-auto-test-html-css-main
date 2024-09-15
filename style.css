@@ -123,6 +123,7 @@ select {
 
 table {
     border-collapse: collapse;
+    font-size: 14px;
     /* Стили для таблицы */
 }
 
